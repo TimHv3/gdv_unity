@@ -1,4 +1,5 @@
 
+
 using UnityEngine;
 
 public class NewMonoBehaviourScript : MonoBehaviour
@@ -18,6 +19,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
         for (int i = 0; i < item.Length; i++)
         {
             Debug.Log(item[i]);
+            
         }
         
     }
